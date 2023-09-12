@@ -83,14 +83,7 @@ hr {
   margin: auto;
 }
 
-/* .mountain-main {
-  margin: 0;
-  display: block;
-  margin: auto;
-} */
-
 /* Profile and Skill Section */
-
 .profile {
   width: 40%;
   margin: auto;
@@ -109,6 +102,16 @@ hr {
   margin: 50px auto 50px auto;
   text-align: left;
   line-height: 2;
+}
+
+.pomeranian-link {
+  text-decoration: none;
+  color: #fa5e76;
+}
+
+.github-link {
+  text-decoration: none;
+  color: #11999e;
 }
 
 .skills-icon-brain {
@@ -133,6 +136,7 @@ hr {
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.23);
   transition: all 100ms linear;
+  margin-bottom: 20px;
 }
 
 .card:hover {
@@ -142,19 +146,23 @@ hr {
 }
 
 .web-tindog {
-  width: 24%;
+  width: 19%;
 }
 
 .web-perfume {
-  width: 53%;
+  width: 42%;
+}
+
+.app-calc {
+  width: 45%;
 }
 
 .web-first {
-  width: 70%;
+  width: 62%;
 }
 
 .web-goit {
-  width: 100%;
+  width: 88%;
 }
 
 /* Contact Section */
