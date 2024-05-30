@@ -145,11 +145,6 @@ hr {
   transform: scale(1.02);
 }
 
-.card-text {
-  margin: 0;
-  font-size: 0.5rem;
-}
-
 /* Contact Section */
 .btn {
   box-shadow: 1px 3px 4px 0 #abc6d1;
